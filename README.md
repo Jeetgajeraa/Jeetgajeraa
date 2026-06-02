@@ -87,6 +87,7 @@ Architecture:
 <p align="center">
   <img width="40%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jeetgajeraa&theme=tokyonight&layout=compact&hide_border=true" />
 </p>
+
 ---
 
 ## 📊 Contribution Graph
