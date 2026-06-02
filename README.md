@@ -78,15 +78,15 @@ Architecture:
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jeetgajeraa&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=Jeetgajeraa&theme=tokyonight&show_icons=true&hide_border=true" />
 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeetgajeraa&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Jeetgajeraa&theme=tokyonight&hide_border=true" />
+
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeetgajeraa&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="40%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jeetgajeraa&theme=tokyonight&layout=compact&hide_border=true" />
 </p>
-
 ---
 
 ## 📊 Contribution Graph
