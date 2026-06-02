@@ -110,7 +110,7 @@ Architecture:
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/Jeetgajeraa/" target="_blank">
+  <a href="https://www.linkedin.com/in/Jeetgajera/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
